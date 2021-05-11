@@ -1,6 +1,5 @@
 {
     "require": {
-        "guzzlehttp/guzzle": "^7.3",
         "paquettg/php-html-parser": "^3.1"
     }
 }
